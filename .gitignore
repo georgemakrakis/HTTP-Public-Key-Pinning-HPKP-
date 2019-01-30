@@ -337,3 +337,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/CSharpConsoleAppBlog/CSharpConsoleAppBlog/server.crt
+/NodejsConsoleAppBlog/NodejsConsoleAppBlog/build/certs/server.key
+/NodejsConsoleAppBlog/NodejsConsoleAppBlog/build/certs/server.crt
