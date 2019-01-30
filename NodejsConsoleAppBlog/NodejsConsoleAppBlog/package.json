@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-console-app-blog",
+  "version": "0.0.0",
+  "description": "NodejsConsoleAppBlog",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "https": "^1.0.0"
+  }
+}
